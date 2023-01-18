@@ -1,0 +1,40 @@
+body
+{
+    background-color: rgb(0,0,0);
+}
+
+h1
+{
+    color: rgb(194, 69, 69);
+}
+
+a
+{
+    color:blanchedalmond;
+}
+
+.formatText
+{
+    color:olivedrab;
+    text-align: right;
+    font-style: oblique;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
+.formatText2
+{
+    text-align: center;
+}
+
+#FaCtS
+{
+    border: 5px solid darkviolet;
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    align-items: baseline;
+    width: 50%;
+    margin: 1 auto;
+    color: gold;
+}
